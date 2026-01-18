@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Shield, Plus, Send, Search, CheckCircle, Package, Wallet, Loader, X, LogOut } from 'lucide-react';
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   const [activeTab, setActiveTab] = useState('home');
@@ -678,6 +679,7 @@ function App() {
       <footer className="bg-white/60 backdrop-blur-lg border-t border-slate-200 mt-16 py-6">
         <p className="text-center text-slate-600">© 2026 MediChain - Made with ❤️ by <i>Anshu</i> for secure healthcare </p>
       </footer>
+      <Analytics />
     </div>
   );
 }
