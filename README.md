@@ -2,11 +2,11 @@
 
 A decentralized application for tracking pharmaceutical supply chains on Ethereum blockchain, combating counterfeit medicines through transparent and immutable record-keeping.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://your-app.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://medichain-dapp.vercel.app/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Ethereum](https://img.shields.io/badge/Ethereum-Sepolia-purple)](https://sepolia.etherscan.io/)
 
-[Live Demo](https://your-app.vercel.app) • [Smart Contract](https://sepolia.etherscan.io/address/0x573C0D90761D099d2bb71813BEe1610A66D063a6) 
+[Live Demo](https://medichain-dapp.vercel.app/) • [Smart Contract](https://sepolia.etherscan.io/address/0x573C0D90761D099d2bb71813BEe1610A66D063a6) • [Report Bug](https://github.com/anshujain0/medichain/issues)
 
 ---
 
@@ -246,7 +246,7 @@ Anshu Jain
 
 - GitHub: [@anshujain0](https://github.com/anshujain0)
 - Email: jainanshu814@gmail.com
-- LinkedIn: [anshu-jain-639aj](https://linkedin.com/in/anshu-jain-639aj)
+- LinkedIn: [Anshu Jain](https://linkedin.com/in/anshu-jain-639aj)
 
 ---
 
